@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp / output folders
+temp/
+output/
+*.zip
+
+# Logs
+*.log
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Misc
+*.sqlite3
